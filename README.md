@@ -2,7 +2,8 @@
 #### Software Developer
 I have completed my Bachelor degree in electrical and electronics engineering and  now i am studing Software Developmet At Omnia.
 
-Skills: 
+Skills:
+
   WORD PRESS<br>
   PHP <br>
   HTML <br> 
