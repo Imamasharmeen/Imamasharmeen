@@ -4,7 +4,7 @@ Currently pursuing a bachelor’s degree in
 information and communication technology at Omnia, with a
 background in Electrical and Electronics Engineering. My
 academic background and projects have provided a strong foundation of some technical skills.
-in , React, HTML, CSS, SQL, JavaScript, Linux, and Docker
+
 
 Skills:
 
