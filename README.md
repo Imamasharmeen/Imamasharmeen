@@ -1,11 +1,16 @@
-### Hi, I'am Sharmeen Akter Imama
+### Hi, I'am Sharmeen Akter Imama.
 #### Software Developer
-I have completed my Bachelor degree in electrical and electronics engineering and  now i am studing Software Developmet At Omnia.
+Currently pursuing a bachelor’s degree in
+information and communication technology at Omnia, with a
+background in Electrical and Electronics Engineering. My
+academic background and projects have provided a strong foundation of some technical skills.
+in , React, HTML, CSS, SQL, JavaScript, Linux, and Docker
 
 Skills:
 
   WORD PRESS<br>
   PHP <br>
+  PYTHON <br>
   HTML <br> 
   CSS <br> 
   JS <br>
@@ -14,7 +19,7 @@ Skills:
 
 
 - 🌱 I’m currently learning Full Stack.
-- 🤔 I’m looking for help with internship. 
+- 🤔 I’m looking for internship. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Imamasharmeen)  
