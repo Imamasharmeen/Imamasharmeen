@@ -13,7 +13,7 @@ Skills:
   SQL AND RELATIONAL DATABASE <br>
 
 
-- 🌱 I’m currently learning Full Stack 
+- 🌱 I’m currently learning Full Stack.
 - 🤔 I’m looking for help with internship. 
 
 
