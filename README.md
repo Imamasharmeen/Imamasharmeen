@@ -2,7 +2,7 @@
 ![Banner](https://github.com/Imamasharmeen/Imamasharmeen/blob/main/White%20and%20Gray%20Simple%20Business%20LinkedIn%20Article%20Cover%20Image%20(1).png)
 
 ### Hi, I'am Sharmeen Akter Imama.
-#### Software Developer
+#### FrontEnd Developer
 Currently pursuing a bachelor’s degree in
 information and communication technology at Omnia, with a
 background in Electrical and Electronics Engineering. My
