@@ -1,43 +1,11 @@
-https://www.canva.com/design/DAGHNtXY5aM/zv4LxAKwjiBcLDkUkJS3Nw/edit?utm_content=DAGHNtXY5aM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ### Hi, I'am Sharmeen Akter Imama.
 #### Software Developer
 Currently pursuing a bachelor’s degree in
 information and communication technology at Omnia, with a
 background in Electrical and Electronics Engineering. My
-academic background and projects have provided a strong foundation of some technical skills.
+academic background and projects have provided a strong foundation of some technical skills.I'm passionate about web development, creating innovative projects, and continuously learning new technologies. Here's a glimpse of the skills and tools I work with:
 
-
-Skills:
-
-  WORD PRESS<br>
-  PHP <br>
-  PYTHON <br>
-  HTML <br> 
-  CSS <br> 
-  JS <br>
-  REACT <br>
-  SQL AND RELATIONAL DATABASE <br>
-
-
-- 🌱 I’m currently learning Full Stack.
-- 🤔 I’m looking for internship. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Imamasharmeen)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Imamasharmeen&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Imamasharmeen)  
-
- Below is a suggestion for your GitHub README profile, incorporating the banner image and the icons for the technologies you mentioned. 
-
----
-
-# 🌟 Welcome to My GitHub Profile! 🌟  
-
-![Banner](https://www.canva.com/design/DAGHNtXY5aM/zv4LxAKwjiBcLDkUkJS3Nw/edit?utm_content=DAGHNtXY5aM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-Hi there! 👋 I'm passionate about web development, creating innovative projects, and continuously learning new technologies. Here's a glimpse of the skills and tools I work with:
 
 ## 🚀 Skills and Technologies  
 
@@ -67,10 +35,17 @@ Hi there! 👋 I'm passionate about web development, creating innovative project
 - **Python**  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
 
----
 
-## 🛠️ Projects and Contributions  
-Check out my pinned repositories for some of my best work! Feel free to explore, and don't hesitate to give feedback. 😊  
+
+- 🌱 I’m currently learning Full Stack.
+- 🤔 I’m looking for internship. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Imamasharmeen)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Imamasharmeen&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Imamasharmeen)  
 
 ---
 
@@ -79,11 +54,8 @@ Check out my pinned repositories for some of my best work! Feel free to explore,
 - [LinkedIn](https://linkedin.com/in/yourprofile)  
 
 ---
+ Below is a suggestion for your GitHub README profile, incorporating the banner image and the icons for the technologies you mentioned. 
 
-✨ Keep building, keep learning, and keep growing! ✨
 
----
-
-Would you like help refining this further or customizing it with more details about your projects?
 
 
