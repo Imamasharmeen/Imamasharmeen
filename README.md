@@ -52,8 +52,7 @@ academic background and projects have provided a strong foundation of some techn
 ---
 
 ## 📬 Connect with Me  
-- [GitHub](https://github.com/yourusername)  
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
+- [LinkedIn](https://www.linkedin.com/in/sharmeen-akter-imama-6a970620b/)  
 
 ---
  Below is a suggestion for your GitHub README profile, incorporating the banner image and the icons for the technologies you mentioned. 
