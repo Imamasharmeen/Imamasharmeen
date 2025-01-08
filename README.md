@@ -1,4 +1,6 @@
 
+![Banner](https://github.com/Imamasharmeen/Imamasharmeen/blob/main/White%20and%20Gray%20Simple%20Business%20LinkedIn%20Article%20Cover%20Image%20(1).png)
+
 ### Hi, I'am Sharmeen Akter Imama.
 #### Software Developer
 Currently pursuing a bachelor’s degree in
